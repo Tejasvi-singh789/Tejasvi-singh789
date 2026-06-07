@@ -61,13 +61,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejasvisingh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e87a&icon_color=00e87a&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tejasvisingh1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e87a&icon_color=00e87a&border_radius=10&count_private=true&cache_seconds=1800" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasvisingh1&hide_border=true&background=0d1117&ring=00e87a&fire=00e87a&currStreakNum=00e87a&sideNums=00e87a&currStreakLabel=ffffff&sideLabels=00e87a&dates=50a362&mode=weekly&border_radius=10" width="49%" />
 
 <br/>
 
 <img src="https://leetcard.jacoblin.cool/Ironrose_ronin?theme=dark&font=Fira%20Code&ext=activity&border_radius=10" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasvisingh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e87a&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasvisingh1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e87a&border_radius=10&cache_seconds=1800" width="49%" />
 
 </div>
 
